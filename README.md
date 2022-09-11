@@ -39,11 +39,11 @@ https://www.lab111.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
 Homepagina
-<img src="readme-images/homepagine.png" width="375px" alt="omschrijving van de pagina">
+<img src="readme-images/homepagina.png" width="375px" alt="Home">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/programma.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/programma.png" width="375px" alt="programma">
  
 </details>
 
