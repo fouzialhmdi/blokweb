@@ -58,7 +58,7 @@ Homepagina
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Bij het gebruik van de screenreader stopte de screenreader na het menu, tenzij ik zelf aangaf dat ik wilde dat hij verderging. 
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
